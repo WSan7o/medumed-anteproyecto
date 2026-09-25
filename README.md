@@ -10,4 +10,5 @@ Repositorio oficial para la documentación técnica y respaldos del anteproyecto
 * 📄 **Documentación del Anteproyecto:** 
   * [Docs Medumed](https://docs.google.com/document/d/1SPgMfqkPiOhYhrZBrvqaqpeLY19s7ez46Qs9FxYONUQ/edit?usp=drive_link)
   * [Anteproyecto Medumed - Actualizado](https://docs.google.com/document/d/1_UUGstEeNx5uKfETLs1moaTnyc5tQuIR0dUfHL2PrbI/edit?usp=drive_link)
-* 📊 **Levantamiento de Información:** [Excel Levantamiento de Información](https://docs.google.com/spreadsheets/d/1pzPkVIoaTrPq8U-fW4I3HMykWBjeEFXWf1DwZNSk7vw/edit?usp=drive_link)
+* 📊 **Recopilacion de Información:** [Excel Levantamiento de Información](https://docs.google.com/spreadsheets/d/1pzPkVIoaTrPq8U-fW4I3HMykWBjeEFXWf1DwZNSk7vw/edit?usp=drive_link)
+* 📊 **Levantamiento de Información:**[Encuesta medume](https://forms.gle/DGXxsR1N9tHH7kB18)
